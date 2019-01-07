@@ -1,2 +1,4 @@
 # BoardGamesDecider
-Decide what to play today. Add a new board games. Have fun with your friends!
+Decide what to play today. <br>
+Add a new board games. <br>
+Have fun with your friends!
