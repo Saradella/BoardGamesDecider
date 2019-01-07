@@ -7,7 +7,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    val gamesList = arrayListOf("Terraformacja Marsa", "Dixit", "Talizman: Magia i Miecz")
+    val gamesList = arrayListOf("Chess", "Monopoly", "Scrabble")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
